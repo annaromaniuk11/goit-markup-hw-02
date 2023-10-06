@@ -26,10 +26,6 @@ a {
   text-transform: uppercase;
 }
 
-span {
-  color: #2e2f42;
-}
-
 .nav-link-logo {
   color: #2e2f42;
 }
@@ -184,10 +180,6 @@ span {
 
 span {
   color: #2e2f42;
-}
-
-.footer-logo {
-  color: #f4f4fd;
 }
 
 .footer-information {
